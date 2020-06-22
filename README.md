@@ -1,4 +1,5 @@
 Link to website -> http://adamwk97.epizy.com
+       PHP output: http://adamwk97.epizy.com/module%207.php
 
 My PHP code for this week looks like: 
 
